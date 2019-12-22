@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  CDecimalTable.cpp
+c:\users\leo_g\source\repos\cdecimaltable\cdecimaltable\cdecimaltable.cpp(27): warning C4129: '+': unrecognized character escape sequence
+c:\users\leo_g\source\repos\cdecimaltable\cdecimaltable\cdecimaltable.cpp(85): warning C4101: 'count': unreferenced local variable
+c:\users\leo_g\source\repos\cdecimaltable\cdecimaltable\cdecimaltable.cpp(146): warning C4551: function call missing argument list
+  CDecimalTable.vcxproj -> C:\Users\Leo_G\source\repos\CDecimalTable\Debug\CDecimalTable.exe
