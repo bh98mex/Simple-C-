@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  SquareRoot.cpp
+c:\users\leo_g\source\repos\squareroot\squareroot\squareroot.cpp(21): warning C4101: 'number1': unreferenced local variable
+  SquareRoot.vcxproj -> C:\Users\Leo_G\source\repos\SquareRoot\Debug\SquareRoot.exe
