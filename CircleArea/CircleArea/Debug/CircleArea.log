@@ -1,0 +1,4 @@
+﻿  CircleArea.cpp
+c:\users\leo_g\source\repos\circlearea\circlearea\circlearea.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\leo_g\source\repos\circlearea\circlearea\circlearea.cpp(20): warning C4101: 'cercle_area': unreferenced local variable
+  CircleArea.vcxproj -> C:\Users\Leo_G\source\repos\CircleArea\Debug\CircleArea.exe
